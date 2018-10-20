@@ -1,0 +1,1257 @@
+@article{Boyack2009Scientometrics,
+   author = {Boyack, Kevin},
+   affiliation = {Sandia National Laboratories P.O. Box 5800, MS-1316 Albuquerque NM 87185 USA},
+   title = {Using detailed maps of science to identify potential collaborations},
+   journal = {Scientometrics},
+   pages = {27-44},
+   volume = {79},
+   issue = {1},
+   url = {http://dx.doi.org/10.1007/s11192-009-0402-6},
+   year = {2009},
+}
+
+
+@article{Bollen2009PLOS,
+    author = {Bollen, Johan AND Van de Sompel, Herbert AND Hagberg, Aric AND Bettencourt, Luis AND Chute, Ryan AND Rodriguez, Marko A. AND Balakireva, Lyudmila},
+    journal = {PLoS ONE},
+    publisher = {Public Library of Science},
+    title = {Clickstream Data Yields High-Resolution Maps of Science},
+    year = {2009},
+    month = {03},
+    volume = {4},
+    url = {http://dx.doi.org/10.1371%2Fjournal.pone.0004803},
+    pages = {e4803},
+    number = {3},
+    doi = {10.1371/journal.pone.0004803}
+}
+
+@BOOK{Feynman1965,
+  AUTHOR =       {Feynman, R.},
+  TITLE =        {{The Character of Physical Law}},
+  PUBLISHER =    {Cox Wyman Ltd.},
+  YEAR =         {1965},
+  address =     {London},
+}
+
+@article{Newmark2003Nature,
+author = "Newmark, Peter",
+title = "Peer review and the rewards of open access",
+journal = "Nature",
+year = "2003",
+volume = "422",
+pages = "661-661",
+doi = "DOI: 10.1038/422661b",
+}
+
+@BOOK{Gopen2004,
+  AUTHOR =       {Gopen, George D.},
+  TITLE =        {{Expectations: Teaching Writing from a Reader's Perspective}},
+  PUBLISHER =    {Pearson Education Ltd.},
+  YEAR =         {2004},
+pages = "395",
+isbn = "0-205-29617-3",
+}
+
+@BOOK{OConner1999,
+  AUTHOR =       {O'Conner, Patricia T.},
+  TITLE =        {Words fail me},
+  PUBLISHER =    {Harcourt Brace \& Company},
+  YEAR =         {1999},
+  isbn =         {0-15-100371-8},
+  pages =        {230},
+}
+
+
+@article{Regazzi2004SR,
+title = "The Shifting Sands of Open Access Publishing, a Publisher's View",
+journal = "Serials Review",
+volume = "30",
+number = "4",
+pages = "275-280",
+year = "2004",
+note = "",
+doi = "DOI: 10.1016/j.serrev.2004.09.010",
+author = "John Regazzi",
+}
+
+@article{Costa2005NLW,
+title        = {{Participation in the global knowledge commons: Challenges and opportunities for research dissemination in developing countries}},
+author       = {Chan, L. and Costa, S.},
+journal      = {New Library World},
+pages        = {141-163},
+volume       = {106},
+number       = {3-4},
+year         = {2005},
+}
+
+@book{Crump2002,
+title        = {{A brief history of Science}},
+author       = {Crump, T.},
+pages        = {403},
+address      = {London},
+year         = {2002},
+publisher    = {Costanble \& Robinson Ltd},
+}
+
+@book{Dawkin1999,
+title        = {{The selfish gene}},
+author       = {Dawkin, R.},
+pages        = {345},
+address      = {Oxford},
+year         = {1999},
+publisher    = {Oxford University press},
+}
+
+@article{Garfield1990CC,
+title        = {{The most-cited papers of all time: SCI 1945--1988}},
+author       = {Garfield, E.},
+journal      = {Current Contents},
+pages        = {3-14},
+volume       = {7},
+year         = {1990},
+}
+
+@book{Garfield1979S,
+title        = {{Citation Indexing --- Its Theory and Application in Science, Technology, and Humanities}},
+author       = {Garfield, E.},
+pages        = {259},
+address      = {Inc. NY},
+year         = {1979},
+publisher    = {John Wiley \& Sons},
+}
+
+@article{Gopen1990AS,
+title        = {{The Science of Scientific Writing}},
+author       = {Gopen, G.D. and Swan, J.A.},
+journal      = {American Scientist},
+pages        = {550-558},
+volume       = {78},
+year         = {1990},
+}
+
+@article{Collins2005JACR,
+title = "The future of academic publishing: What is open access?",
+journal = "Journal of the American College of Radiology",
+volume = "2",
+number = "4",
+pages = "321-326",
+year = "2005",
+doi = "DOI: 10.1016/j.jacr.2004.07.018",
+author = "Jannette Collins",
+}
+
+@BOOK{WellcomeTrust2004,
+  AUTHOR =       {{The Wellcome Trust}},
+  TITLE =        {Costs and business models in scientific research publishing},
+  PUBLISHER =    {SQW Limited},
+  YEAR =         {2004},
+  address =      {London, UK},
+  pages =       {30},
+}
+
+@article{Evans2009Science,
+author = {Evans, James A. and Reimer, Jacob},
+title = {Open Access and Global Participation in Science},
+volume = {323},
+number = {5917},
+pages = {1025},
+year = {2009},
+doi = {10.1126/science.1154562},
+journal = {Science}
+}
+
+
+@article{Harnad2004DLM,
+title        = {{Comparing the Impact of Open Access (OA) vs.\@ Non-OA Articles in the Same Journals}},
+author       = {Harnad, S. and Brody, T.},
+journal      = {DLib Magazine},
+volume       = {10},
+number       = {6},
+year         = {2004},
+}
+
+@article{Erren2007PLoS,
+    author = {Erren, Thomas C AND Cullen, Paul AND Erren, Michael AND Bourne, Philip E},
+    journal = {PLoS Comput Biol},
+    publisher = {Public Library of Science},
+    title = {Ten Simple Rules for Doing Your Best Research, According to Hamming},
+    year = {2007},
+    month = {10},
+    volume = {3},
+    pages = {e213},
+    number = {10},
+    doi = {10.1371/journal.pcbi.0030213},
+}
+
+@ARTICLE{Economist2007,
+  AUTHOR =       {{The Economist}},
+  TITLE =        {Charts: Worth a thousand words},
+  JOURNAL =      {The Economist},
+  YEAR =         {2007},
+}
+
+@article{MonteroLeon2007,
+author = {Montero, Ignacio and Le\'{ó}n, Orfelio G.},
+title = {A guide for naming research studies in Psychology1},
+journal = {International Journal of Clinical and Health Psychology},
+year = {2007},
+volume = {7},
+number = {3},
+pages = {847-862},
+}
+
+@book{Hartemink2002S,
+title        = {{Publishing in soil science --- Historical developments and current trends}},
+author       = {Hartemink, A.E.},
+pages        = {196},
+address      = {Vienna},
+year         = {2002},
+publisher    = {IUSS},
+}
+
+@book{rees2004our,
+  title={Our final century: will civilisation survive the twenty-first century?},
+  author={Rees, M.J.},
+  isbn={9780099436867},
+  year={2004},
+  publisher={Arrow}
+}
+
+
+@article{Jasper2002CC,
+title        = {{Why So Many Academics are Lousy Writers}},
+author       = {Jasper, J.M.},
+journal      = {Chronicle Careers},
+volume       = {3-26},
+year         = {2002},
+}
+
+@book{Clark2003,
+title        = {{The Writing Coach}},
+author       = {Clark, L.J.},
+pages        = {288},
+address      = {Clifton park, NY},
+year         = {2003},
+publisher    = {Thomson Delmar Learning},
+}
+
+@article{Foltz1994,
+title        = {{Mistakes That Worked: 40 Familiar Inventions and How They Came to Be}},
+author       = {Foltz, C.J. and O'Brien, J.},
+pages        = {96},
+address      = {New York},
+year         = {1994},
+publisher    = {Random House Children's Books},
+}
+
+@book{Latour1987S,
+title        = {{Science in Action --- How to Follow Scientists and Engineers through Society}},
+author       = {Latour, B.},
+pages        = {271},
+address      = {New York},
+year         = {1987},
+publisher    = {Harvard University Press},
+}
+
+@article{Moore2005CSAN,
+title        = {{Publish and flourish}},
+author       = {Moore, K.},
+journal      = {CSA News},
+pages        = {11-14},
+volume       = {6},
+number       = {June},
+year         = {2005},
+}
+
+@article{Newman2000DM,
+title        = {{Twenty of the greatest blunders in Science in the last twenty years}},
+author       = {Newman, J.},
+journal      = {Discover Magazine},
+volume       = {21},
+number       = {10},
+year         = {2000},
+}
+
+@ARTICLE{Kleiner2011,
+  author = {Kleiner, Kurt},
+  title = {Data on demand},
+  journal = {Nature Climate Change},
+  year = {2011},
+  volume = {1},
+  pages = {10-12},
+  month = {3/2011},
+  doi = {10.1038/nclimate1057},
+  issn = {1758-6798}
+}
+
+
+@article{Raymond1993CCC,
+title        = {{I-Dropping and Androgyny: The Authorial \emph{I} in Scholarly Writing}},
+author       = {Raymond, J.C.},
+journal      = {College Composition and Communication},
+pages        = {478-483},
+volume       = {44},
+number       = {4},
+year         = {1993},
+}
+
+@article{Seglen1997BMJ,
+title        = {{Why the impact factor of journals should not be used for evaluating research. Education and debate}},
+author       = {Seglen, P.O.},
+journal      = {British Medical Journal},
+pages        = {314-497},
+year         = {1997},
+}
+
+@ARTICLE{Adler2009,
+  author = {Adler, Robert and Ewing, John and Taylor, Peter},
+  title = {Citation Statistics},
+  journal = {Statistical Science},
+  year = {2009},
+  volume = {24},
+  pages = {1-14},
+  month = {02/2009},
+  doi = {10.1214/09-STS285},
+  issn = {0883-4237}
+}
+
+
+@book{Glenn2009,
+title        = {{State of the Future}},
+author       = {Glenn, J.C. and Gordon, T.J. and Florescu, E.},
+pages        = {100},
+year         = {2009},
+publisher    = {The Millenium Project},
+}
+
+@book{Kurzweil2005,
+title        = {{The Singularity Is Near}},
+author       = {Kurzweil, R.},
+pages        = {672},
+year         = {2005},
+publisher    = {Penguin Group},
+}
+
+@book{Sokal1998S,
+title        = {{Fashionable Nonsense: Postmodern Intellectuals' Abuse of Science}},
+author       = {Sokal, A. and Bricmont, J.},
+pages        = {297},
+address      = {New York},
+year         = {1998},
+publisher    = {Picador}
+}
+
+@article{Stewart1989,
+title        = {{Does God Play Dice? The mathematics of Chaos}},
+author       = {Stewart, I.},
+pages        = {341},
+address      = {Oxford},
+year         = {1989},
+publisher    = {Blackwell}
+}
+
+@article{Wainer1984TAS,
+title        = {{How to Display Data Badly}},
+author       = {Wainer, H.},
+journal      = {The American Statistician},
+pages        = {137-147},
+volume       = {38},
+number       = {2},
+year         = {1984}
+}
+
+@article{Webster2003EJSS,
+title        = {{Let's re-write the scientific paper}},
+author       = {Webster, R.},
+journal      = {European Journal of Soil Science},
+pages        = {215-218},
+volume       = {54},
+number       = {June},
+year         = {2003}
+}
+
+@article{Editorial2005N,
+title        = {{Not-so-deep impact}},
+author       = {{Nature Editorial}},
+journal      = {Nature},
+pages        = {1003-1004},
+volume       = {435},
+year         = {2005},
+doi          = {10.1038/4351003b}
+}
+
+@article{Smith1990TR,
+ author = {Smith, Alan Jay},
+ title = {{The Task of the Referee}},
+ journal = {Computer},
+ volume = {23},
+ issue = {4},
+ month = {April},
+ year = {1990},
+ issn = {0018-9162},
+ pages = {65--71},
+ numpages = {7},
+ doi = {10.1109/2.55470},
+}
+
+
+@article{Kaplan2010N,
+title        = {{Publishing: A helping hand}},
+author       = {Kaplan, K.},
+journal      = {Nature},
+pages        = {721-723},
+volume       = {468},
+year         = {2010},
+doi          = {10.1038/nj7324-721a}
+}
+
+
+@article{PLoS2006,
+    author = {{The PLoS Medicine Editors}},
+    journal = {PLoS Med},
+    publisher = {Public Library of Science},
+    title = {The Impact Factor Game},
+    year = {2006},
+    month = {06},
+    volume = {3},
+    pages = {e291},
+    number = {6},
+    doi = {10.1371/journal.pmed.0030291}
+}
+
+@article{Weinberg2003Nature,
+title        = {{Four golden lessons}},
+author       = {Weinberg, Steven},
+journal      = {Nature},
+pages        = {389},
+volume       = {426},
+number       = {27},
+year         = {2003}
+}
+
+@book{Weinberg1993N,
+title        = {{Dreams of a Final Theory: The Scientist's Search for the Ultimate Laws of Nature}},
+author       = {Weinberg, S.},
+pages        = {323},
+address      = {New York},
+year         = {1993},
+publisher    = {Vintage books}
+}
+
+@BOOK{Rossiter2010RCS,
+  AUTHOR =       {Rossiter, D.G.},
+  TITLE =        {Research Concepts \& Skills},
+  PUBLISHER =    {University of Twente, ITC},
+  YEAR =         {2009},
+  volume =       {1-3},
+  address =      {Enschede},
+  pages =      {,216,},
+}
+
+@book{Kabacoff2009,
+title        = {{Data Analysis and Graphics with R}},
+author       = {Kabacoff, R.I.},
+year         = {2009},
+publisher    = {Manning publications},
+isbn         = {9781935182399}
+}
+
+@book{Kabacoff2011,
+title        = {{R in Action: Data analysis and graphics with R}},
+author       = {Kabacoff, R.I.},
+year         = {2011},
+publisher    = {Manning publications},
+pages        = {470},
+isbn         = {9781935182399}
+}
+
+
+@book{Adrienko2005,
+title        = {{Exploratory Analysis of Spatial and Temporal Data, A Systematic Approach}},
+author       = {N. Adrienko and G. Adrienko},
+year         = {2005},
+pages        = {282},
+isbn         = {9783540259947},
+publisher    = {Springer}
+}
+
+
+@book{Bloomfield2008,
+title        = {{The Chicago Guide to Your Career in Science: A Toolkit for Students and Postdocs (Chicago Guides to Academic Life)}},
+author       = {Bloomfield, V.A. and El-Fakahany, E.E.},
+pages        = {336},
+publisher    = {University Of Chicago Press},
+year         = {2008},
+isbn         = {9780226060637}
+}
+
+@book{SokalBricmont1997,
+title        = {{Impostures intellectuelles}},
+author       = {Sokal, Alan D. and Bricmont, J.},
+pages        = {336},
+publisher    = {O. Jacob},
+address      = {Paris},
+year         = {1997},
+isbn         = {9782738105035}
+}
+
+@book{Baillargeon2008short,
+  title={{A short course in intellectual self-defense}},
+  author={Baillargeon, N. and Schmidt, A.},
+  isbn={9781583227657},
+  year={2008},
+  publisher={Seven Stories Press}
+}
+
+@book{Chomsky2002entretiens,
+  title={{Entretiens avec Chomsky}},
+  author={Chomsky, N. and Barsamian, D. and Baillargeon, N.},
+  isbn={9782921561686},
+  year={2002},
+  publisher={{\'E}cosoci{\'e}t{\'e}}
+}
+
+@article{Fox2009RJournal,
+  author = {John Fox},
+  title = {{Aspects of the Social Organization and Trajectory of the R Project}},
+  journal = {The R Journal},
+  year = 2009,
+  volume = 1,
+  number = 2,
+  pages = {5--13},
+  month = {December},
+}
+
+@BOOK{Harzing2010,
+  AUTHOR =       {Harzing, Anne-Wil},
+  TITLE =        {{The Publish or Perish Book}},
+  PUBLISHER =    {Tarma Software Research Pty Ltd},
+  YEAR =         {2010},
+  pages =       {250},
+  address =      {Melbourne, Australia},
+}
+
+@BOOK{Tufte1992,
+  AUTHOR =       {Tufte, E.R.},
+  TITLE =        {{The Visual Display of Quantitative Information}},
+  PUBLISHER =    {Graphics Press},
+  YEAR =         {1992},
+  pages =       {197},
+  edition =      {2nd},
+  isbn  =        {978-0961392109},
+}
+
+@book{Babor2008,
+  title={Publishing addiction science: a guide for the perplexed},
+  editor={Babor, Thomas F. and Stenius, Kerstin and Savva, Susan and O'Reilly, Jean},
+  isbn={9780906522974},
+  year={2008},
+  edition={2nd},
+  publisher={International Society of Addiction Journal Editors},
+  address={Essex, UK}
+}
+
+@book{chambers2008software,
+  title={Software for data analysis: programming with R},
+  author={Chambers, J.M.},
+  isbn={9780387759357},
+  lccn={2008922937},
+  series={Statistics and computing},
+  year={2008},
+  publisher={Springer}
+}
+
+@book{Sarkar2008,
+  author = {Sarkar, Deepayan},
+  title = {Lattice: {M}ultivariate Data Visualization with {R}},
+  publisher = {Springer},
+  year = 2008,
+  address = {New York},
+  isbn = {978-0-387-75968-5},
+}
+
+@book{Wickham2009,
+  author = {Hadley Wickham},
+  title = {ggplot: Elegant Graphics for Data Analysis},
+  publisher = {Springer},
+  year = 2009,
+  series = {Use R},
+  isbn = {978-0-98140-6},
+}
+
+@book{Theus2008,
+  title={{Interactive graphics for data analysis: principles and examples}},
+  author={Theus, M. and Urbanek, S.},
+  isbn={9781584885948},
+  lccn={2008038130},
+  series={Series in computer science and data analysis},
+  year={2008},
+  publisher={CRC Press},
+}
+
+
+@book{Creedy2008research,
+  title={{Research without tears: from the first ideas to published output}},
+  author={Creedy, J.},
+  isbn={9781847208347},
+  year={2008},
+  pages={118},
+  publisher={Edward Elgar Pub.},
+}
+
+
+@book{Sprent1994,
+title        = {{Getting into Print: A guide for scientists and technologists}},
+author       = {Sprent, P.},
+pages        = {228},
+year         = {1994},
+publisher    = {Taylor \& Francis},
+isbn         = {9780419192206},
+}
+
+@book{AscheronKickuth2004,
+title        = {{Make Your Mark in Science: Creativity, Presenting, Publishing, and Patents, A Guide for Young Scientists}},
+author       = {Ascheron, C. and Kickuth, A.},
+pages        = {256},
+year         = {2004},
+publisher    = {Wiley-Interscience},
+isbn         = {9780471657330},
+}
+
+@book{Meredith2010,
+title        = {{Explaining Research: How to Reach Key Audiences to Advance Your Work}},
+author       = {Meredith, D.},
+pages        = {376},
+year         = {2010},
+publisher    = {Oxford University Press},
+isbn         = {9780199732050},
+}
+
+@book{Chapin2004,
+title        = {{Research Projects and Research Proposals: A Guide for Scientists Seeking Funding}},
+author       = {Chapin, P.G.},
+pages        = {170},
+year         = {2004},
+publisher    = {Cambridge University Press},
+isbn         = {9780521830157},
+}
+
+@book{Bethell2005S,
+title        = {{The Politically Incorrect Guide(TM) to Science (Politically Incorrect Guides)}},
+author       = {Bethell, T.},
+pages        = {270},
+year         = {2005},
+publisher    = {Regnery Publishing, Inc.},
+isbn         = {9780895260314},
+}
+
+@book{Barrass2002,
+title        = {{Scientists Must Write: A Guide to Better Writing for Scientists, Engineers and Students}},
+author       = {Barrass, R.},
+series       = {Routledge Study Guides},
+pages        = {184},
+year         = {2002},
+publisher    = {RoutledgeFalmer},
+isbn         = {9780415269964},
+}
+
+@book{Doherty2006,
+title        = {{The Beginner's Guide to Winning the Nobel Prize: Advice for Young Scientists}},
+author       = {Doherty, P.},
+pages        = {320},
+year         = {2006},
+publisher    = {Columbia University Press},
+isbn         = {9780231138963},
+}
+
+@book{Sindermann2001,
+title        = {{Winning the Games Scientists Play}},
+author       = {Sindermann, C. and Sindermann, C.J.},
+pages        = {320},
+year         = {2001},
+publisher    = {Basic Books},
+isbn         = {9780738204253},
+}
+
+@book{Lagendijk2008,
+title        = {{Survival guide for scientists: Writing, presentation, email}},
+author       = {Lagendijk, A.},
+pages        = {260},
+year         = {2008},
+publisher    = {Amsterdam University Press},
+}
+
+@book{Kirkman2004S,
+title        = {{Good Style: Writing for Science and Technology}},
+author       = {Kirkman, A.J.},
+pages        = {193},
+address      = {Abingdon},
+year         = {2004},
+publisher    = {Routledge},
+series={Routledge Study Guides Series},
+}
+
+@book{turk1989effective,
+  title={Effective writing: improving scientific, technical, and business communication},
+  author={Turk, C. and Kirkman, A.J.},
+  isbn={9780419146605},
+  lccn={gb88044434},
+  series={Routledge Study Guides Series},
+  year={1989},
+  publisher={E. \& F.N. Spon}
+}
+
+@book{trelease1969write,
+  title={How to write scientific and technical papers},
+  author={Trelease, S.F.},
+  series={The M.I.T. paperback series. 115},
+  year={1969},
+  publisher={M.I.T. Press}
+}
+
+@book{swales2004academic,
+  title={Academic writing for graduate students: essential tasks and skills},
+  author={Swales, J.M. and Feak, C.B.},
+  isbn={9780472088560},
+  lccn={2004042505},
+  series={Michigan series in English for academic \& professional purposes},
+  year={2004},
+  publisher={University of Michigan Press}
+}
+
+@book{swales1981aspects,
+  title={Aspects of article introductions},
+  author={Swales, J.},
+  series={Aston ESP Research Reports},
+  year={1981},
+  publisher={Univers. of Aston, Language Studies Unit},
+  pages={94},
+}
+
+@BOOK{Prince1999,
+  title = {Implicit Actions and Explicit Outcomes: Cultural-Academic Interactions in Writing Journal Research Articles},
+  publisher = {Swinburne University of Technology},
+  year = {1999},
+  author = {Prince, A. and Blicblau, A. S. and Soesatyo, B.},
+  pages = {8},
+}
+
+@book{oConnor1975writing,
+  title={Writing scientific papers in English},
+  author={O'Connor, M. and Woodford, F.P.},
+  year={1975},
+  publisher={Associated Scientific Publishers},
+  pages={108},
+}
+
+@book{woods2002research,
+  title={Research papers for dummies},
+  author={Woods, G.},
+  isbn={9780764554261},
+  lccn={2002106035},
+  series={--For dummies},
+  year={2002},
+  publisher={Hungry Minds}
+}
+
+@INPROCEEDINGS{McPhee2001,
+  AUTHOR =       {McPhee, L.},
+  TITLE =        {Teaching the Research Article Introduction},
+  BOOKTITLE =    {First EATAW Conference: Teaching Academic Writing Across Europe},
+  YEAR =         {2001},
+  address =      {Groningen},
+}
+
+
+@article{Kirkman2001ESE,
+title        = {{Third person, past tense, passive voice for scientific writing. Who says?}},
+author       = {Kirkman, J.},
+journal      = {European Science Editing},
+pages        = {4-5},
+volume       = {27},
+number       = {1},
+year         = {2001}
+}
+
+@article{Hyland2003JASIST,
+title        = {{Self-citation and self-reference: Credibility and promotion in academic publication}},
+author       = {Hyland, K.},
+journal      = {Journal of the American Society for Information Science and Technology},
+pages        = {251-259},
+volume       = {54},
+year         = {2003},
+doi          = {10.1002/asi.10204},
+}
+
+@article{Fowler2007S,
+title        = {{Does self-citation pay?}},
+author       = {Fowler, J.H. and Asknes, D.W.},
+journal      = {Scientometrics},
+pages        = {427-437},
+volume       = {72},
+number       = {3},
+year         = {2007},
+}
+
+@BOOK{Houghton2009JISC,
+  AUTHOR =       {Houghton, J. and Rasmussen, B. and Sheehan, P. and Oppenheim, Ch. and Morris, A. and Creaser, C. and Greenwood, H. and Summers, M. and Gourlay, A.},
+  TITLE =        {Economic implications of alternative scholarly publishing models},
+  PUBLISHER =    {Joint Information Systems Committee},
+  YEAR =         {2009},
+  series =       {Reports},
+  pages =        {288},
+  address =      {Victoria University / Loughborough University},
+}
+
+@article{Wager2007PLSM,
+title        = {{Authors, Ghosts, Damned Lies, and Statisticians}},
+author       = {Wager, E.},
+journal      = {PLoS Med},
+pages        = {e34},
+volume       = {4},
+number       = {1},
+year         = {2007},
+}
+
+@article{Siegfried2010SN,
+title        = {{Odds Are, It's Wrong}},
+author       = {Siegfried, T.},
+journal      = {Science News},
+pages        = {25-26},
+volume       = {177},
+number       = {7},
+year         = {2010},
+}
+
+@ARTICLE{Bar-Ilan2008scientometrics,
+  author       = {Bar-Ilan, J.},
+  title        = {{Which h-index? --- A comparison of WoS, Scopus and Google Scholar, Scientometrics}},
+  year         = {2008},
+  journal      = {Scientometrics},
+  volume       = {74},
+  number       = {2},
+  pages        = {257-271},
+}
+
+@ARTICLE{Batista2006Scientometrics,
+  author       = {Batista, P.~D. and Campiteli, M.~G. and Kinouchi, O. and Martinez, A.~S.},
+  title        = {{Is it possible to compare researchers with different scientific interests?}},
+  year         = {2006},
+  journal      = {Scientometrics},
+  volume       = {68},
+  number       = {1},
+  pages        = {179-189},
+}
+
+@ARTICLE{Bauer2005DLIB,
+  author       = {Bauer, K. and Bakkalbasi, N.},
+  title        = {{An Examination of Citation Counts in a New Scholarly Communication Environment}},
+  year         = {2005},
+  journal      = {D-Lib Magazine},
+  volume       = {11},
+  number       = {9},
+  pages        = {1-4},
+}
+
+
+@ARTICLE{Bihui2007ISSI,
+  author       = {Bihui, J.},
+  title        = {{The AR-index: complementing the h-index}},
+  year         = {2007},
+  journal      = {ISSI Newsletter},
+  volume       = {3},
+  number       = {1},
+  pages        = {1-6},
+}
+
+@ARTICLE{Giles2005Nature,
+  author       = {Giles, J.},
+  title        = {{Start your engines}},
+  journal      = {Nature},
+  volume       = {438},
+  number       = {1},
+  pages        = {554-555},
+  year         = {2005},
+}
+
+@ARTICLE{Harzing2008ESEP,
+  author       = {Harzing, A.-W. and {van der Wal}, R.},
+  title        = {{Google Scholar: the democratization of citation analysis?}},
+  journal      = {Ethics in Science and Environmental Politics},
+  volume       = {8},
+  number       = {1},
+  pages        = {62-71},
+  year         = {2008},
+}
+
+@ARTICLE{Harzing2008AM,
+  author       = {Harzing, A.-W. and {van der Wal}, R.},
+  title        = {{A Google Scholar h-index for journals: An alternative metric to measure journal impact in economics and business}},
+  journal      = {Journal of the American Society for Information Science and Technology},
+  volume       = {60},
+  pages        = {41-46},
+  year         = {2009},
+}
+
+@ARTICLE{Jasco2005OIR,
+  author       = {Jacs\'{o}, P.},
+  title        = {{Google Scholar: the pros and the cons}},
+  year         = {2005},
+  journal      = {Online Information Review},
+  volume       = {29},
+  number       = {2},
+  pages        = {208-214},
+}
+
+@ARTICLE{Meho2007JASIST,
+  author       = {Meho, L.~I. and Yang, K.},
+  title        = {{A New Era in Citation and Bibliometric Analyses: Web of Science, Scopus, and Google Scholar}},
+  journal      = {Journal of the American Society for Information Science and Technology},
+  volume       = {58},
+  pages        = {1-21},
+  year         = {2007},
+}
+
+@book{gardner2006five,
+  title={Five minds for the future},
+  author={Gardner, H.},
+  isbn={9781591399124},
+  lccn={2006034450},
+  series={Leadership for the common good},
+  year={2006},
+  publisher={Harvard Business School Press}
+}
+
+@article{ODowd2011,
+author = {O'Dowd, Adrian},
+title = {Peer review system needs thorough evaluation, MPs hear},
+volume = {342},
+year = {2011},
+pages = {d3046},
+doi = {10.1136/bmj.d3046},
+journal = {BMJ}
+}
+
+@BOOK{ASA-CSA-SSSA1998,
+  AUTHOR =       {{ASA-CSA-SSSA}},
+  TITLE =        {Publications Handbook and Style Manual},
+  PUBLISHER =    {ASA-CSA-SSSA},
+  YEAR =         {2011},
+  address =      {Madison (WI)},
+  pages =        {145},
+}
+
+@BOOK{Cressie2002,
+  AUTHOR =       {Cressie, I.},
+  TITLE =        {Writing \& Editing Course, Lecture notes for ITC students},
+  PUBLISHER =    {ASA-CSA-SSSA},
+  YEAR =         {2011},
+  address =      {Enschede},
+  pages =        {120},
+}
+
+@book{cbe1994scientific,
+  title={Scientific style and format: the CBE manual for authors, editors, and publishers},
+  author={CBE Style Manual Committee},
+  isbn={9780521471541},
+  lccn={83007172},
+  series={C B E STYLE MANUAL},
+  url={http://books.google.com/books?id=PoFJ-OhE63UC},
+  year={1994},
+  publisher={Cambridge University Press}
+}
+
+
+@book{turabian2007manual,
+  title={A manual for writers of research papers, theses, and dissertations: Chicago style for students and researchers},
+  author={Turabian, K.L.},
+  isbn={9780226823379},
+  lccn={2006025443},
+  series={Chicago guides to writing, editing, and publishing},
+  year={2007},
+  publisher={University of Chicago Press}
+}
+
+
+@book{dupre1998bugs,
+  title={BUGS in writing: a guide to debugging your prose},
+  author={Dupr{\'e}, L.},
+  isbn={9780201379211},
+  lccn={97046656},
+  year={1998},
+  publisher={Addison-Wesley}
+}
+
+
+@BOOK{Zinsser2006,
+  AUTHOR =       {Zinsser, W.},
+  TITLE =        {On Writing Well},
+  PUBLISHER =    {Harper Collins Publishers},
+  YEAR =         {2006},
+  pages =       {321},
+}
+
+@BOOK{ICU2006,
+  AUTHOR =       {{Information and Communication Unit}},
+  TITLE =        {Study on the economic and technical evolution of the scientific publication markets in Europe},
+  PUBLISHER =    {European Commission Directorate-General for Research},
+  YEAR =         {2006},
+  address =     {Brussels},
+  pages =       {112},
+}
+
+
+@ARTICLE{Minasny2007scientometrics,
+  author       = {Minasny, B. and Hartemink, A.~E. and McBratney, A.},
+  title        = {{Soil science and the h index}},
+  year         = {2007},
+  journal      = {Scientometrics},
+  volume       = {73},
+  number       = {3},
+  pages        = {257-264},
+}
+
+@ARTICLE{Noruzi2005LIBRI,
+  author       = {Noruzi, A.},
+  title        = {{Google Scholar: The New Generation of Citation Indexes}},
+  year         = {2005},
+  journal      = {LIBRI},
+  volume       = {55},
+  number       = {4},
+  pages        = {170-180},
+}
+
+@ARTICLE{Roediger2006AO,
+  author       = {Roediger, H.~L.},
+  title        = {{The h index in Science: A New Measure of Scholary Contribution}},
+  journal      = {The Academic Observer},
+  volume       = {19},
+  pages        = {1-4},
+  year         = {2006},
+}
+
+@ARTICLE{schultz2010Scientometrics,
+AUTHOR = {Schultz, David M.},
+TITLE = {Are three heads better than two? How the number of reviewers and editor behavior affect the rejection rate.},
+JOURNAL = {Scientometrics},
+PAGES = {277-292},
+YEAR = {2010}  }
+
+@ARTICLE{Evans1993JGIM,
+  author = {Evans, Arthur and Mcnutt, Robert and Fletcher, Suzanne and Fletcher,
+	Robert},
+  title = {The characteristics of peer reviewers who produce good-quality reviews},
+  journal = {Journal of General Internal Medicine},
+  year = {1993},
+  volume = {8},
+  pages = {422-428},
+  doi = {10.1007/BF02599618},
+  issn = {0884-8734},
+  issue = {8},
+  keyword = {Medicine},
+  publisher = {Springer New York},
+}
+
+
+@article{Hartley2000PPAGQN,
+title        = {{Nineteen ways to have a viva}},
+author       = {Hartley, J.},
+journal      = {PsyPAG Quarterly Newsletter},
+pages        = {35},
+volume       = {June},
+year         = {2000},
+}
+
+@article{Hartley2009HER,
+title        = {Publishing before the thesis: 58 postgraduate views},
+author       = {Hartley, J. and Betts, L.},
+journal      = {Higher Education Review},
+pages        = {29-44},
+volume       = {41},
+number       = {3},
+year         = {2009},
+}
+
+@inproceedings{BeelGipp2009,
+ author = {Beel, Joran and Gipp, Bela},
+ title = {Google Scholar's Ranking Algorithm: The Impact of Articles' Age (An Empirical Study)},
+ booktitle = {Proceedings of the 2009 Sixth International Conference on Information Technology: New Generations},
+ year = {2009},
+ isbn = {978-0-7695-3596-8},
+ pages = {160--164},
+ numpages = {5},
+ doi = {10.1109/ITNG.2009.317},
+ publisher = {IEEE Computer Society},
+ address = {Washington, DC, USA},
+ keywords = {Google Scholar, Academic Search Engines, Ranking Algorithm, Empirical Study},
+}
+
+@ARTICLE{LariviereGingras2010,
+  author = {Larivi\`{e}re, Vincent and Gingras, Yves},
+  title = {The impact factor's Matthew Effect: A natural experiment in bibliometrics},
+  journal = {Journal of the American Society for Information Science and Technology},
+  year = {2010},
+  volume = {61},
+  pages = {424--427},
+  number = {2},
+  doi = {10.1002/asi.21232},
+  issn = {1532-2890},
+  publisher = {Wiley Subscription Services, Inc., A Wiley Company}
+}
+
+@ARTICLE{Bourne2005,
+  author = {Bourne, Philip E},
+  title = {Ten Simple Rules for Getting Published},
+  journal = {PLoS Comput Biol},
+  year = {2005},
+  volume = {1},
+  pages = {e57},
+  number = {5},
+  month = {10},
+  doi = {10.1371/journal.pcbi.0010057},
+  publisher = {Public Library of Science}
+}
+
+@article{Corbyn2010,
+author = {Corbyn, Z.},
+title = {To be the best, cite the best},
+month = {October},
+number = {13},
+year = {2010},
+doi = {10.1038/news.2010.539},
+journal = {Nature}
+}
+
+@book{day2006write,
+  title={How to write and publish a scientific paper},
+  author={Day, R.A. and Gastel, B.},
+  isbn={9780521671675},
+  lccn={2005031621},
+  year={2006},
+  publisher={Cambridge University Press}
+}
+
+@ARTICLE{Funkhouser1971,
+  author = {Funkhouser, G. Ray and Maccoby, Nathan},
+  title = {Communicating Specialized Science Information to a Lay Audience},
+  journal = {Journal of Communication},
+  year = {1971},
+  volume = {21},
+  pages = {58-71},
+  number = {1},
+  issn = {0021-9916},
+}
+
+@book{germano2008getting,
+  title={Getting it published: a guide for scholars and anyone else serious about serious books},
+  author={Germano, W.P.},
+  isbn={9780226288536},
+  lccn={2008020562},
+  series={Chicago guides to writing, editing, and publishing},
+  year={2008},
+  publisher={University of Chicago Press}
+}
+
+@article{Gopen1990,
+  author = {Gopen, George D. and Swan, Judith A.},
+  pages = {550--558},
+  journal = {American Scientist},
+  volume = {78},
+  title = {The Science of Scientific Writing},
+  year = {1990}
+}
+
+@book{gordon1983running,
+  title={Running a refereeing system},
+  author={Gordon, M. and Martlew, R. and Primary Communications Research Centre},
+  isbn={9780906083253},
+  lccn={gb83017356},
+  issn={0142-7288},
+  series={Aids to scholarly communication},
+  year={1983},
+  publisher={Primary Communications Research Centre, University of Leicester}
+}
+
+@ARTICLE{Gosden1992,
+  author = {Gosden, Hugh},
+  title = {Research Writing and NNSs: From the Editors.},
+  journal = {Journal of Second Language Writing},
+  year = {1992},
+  volume = {1},
+  pages = {123--39},
+  number = {2},
+  issn = {1060-3743},
+}
+
+@book{hofstede2005cultures,
+  title={Cultures and organizations: software of the mind},
+  author={Hofstede, G. and Hofstede, G.H. and Hofstede, G.J.},
+  isbn={9780071439596},
+  lccn={2004063164},
+  series={Successful strategist series},
+  year={2005},
+  publisher={McGraw-Hill}
+}
+
+
+
+@ARTICLE{Webster2009,
+  author = {Webster, Gregory D. and Jonason, Peter K. and Orozco Schember, Tatiana},
+  title = {Hot Topics and Popular Papers in Evolutionary Psychology: Analyses of Title Words and Citation Counts in Evolution and Human Behavior, 1979--2008},
+  journal = {Evolutionary Psychology},
+  year = {2009},
+  volume = {7},
+  pages = {348-362},
+  number = {3},
+  url = {http://www.epjournal.net/filestore/ep07348362.pdf},
+  publisher = {Public Library of Science}
+}
+
+@article{Wuchty2007,
+author = {Wuchty, Stefan and Jones, Benjamin F. and Uzzi, Brian},
+title = {The Increasing Dominance of Teams in Production of Knowledge},
+volume = {316},
+number = {5827},
+pages = {1036-1039},
+year = {2007},
+doi = {10.1126/science.1136099},
+journal = {Science}
+}
+
+@BOOK{Bolker1998OW,
+  AUTHOR =       {Bolker, J.},
+  TITLE =        {Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Starting, Revising, and Finishing Your Doctoral Thesis},
+  PUBLISHER =    {Owl Books},
+  address =      {New York},
+  YEAR =         {1998},
+  pages =        {184},
+}
+
+
+@ARTICLE{Kliegl2011Scientometrics,
+  author = {Kliegl, Reinhold and Bates, Douglas},
+  title = {International collaboration in psychology is on the rise},
+  journal = {Scientometrics},
+  year = {2011},
+  volume = {87},
+  pages = {149-158},
+  doi = {10.1007/s11192-010-0299-0},
+  affiliation = {Department of Psychology, University of Potsdam, Postfach 60 15 53,
+	14415 Potsdam, Germany},
+  issn = {0138-9130},
+  issue = {1},
+  keyword = {Computer Science},
+  publisher = {Springer Science+Business Media B.V.},
+}
+
+
+@article{Hirsch2005,
+author = {Hirsch, J. E.},
+title = {{An index to quantify an individual's scientific research output}},
+volume = {102},
+number = {46},
+pages = {16569-16572},
+year = {2005},
+doi = {10.1073/pnas.0507655102},
+journal = {Proceedings of the National Academy of Sciences of the United States of America},
+}
